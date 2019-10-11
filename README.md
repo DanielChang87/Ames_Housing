@@ -51,18 +51,20 @@ Project Contents
  Summary of Findings
 
 RSquared
-Filter	Embedded	Wrapper	Combined
-Ridge	0.87	0.89	0.89	0.86
-Lasso	0.87	0.90	0.89	0.86
-Enet	0.87	0.90	0.89	0.86
-Poly Enet	-	0.93	-	0.90
+|---|---|---|---|
+|Filter	|Embedded	|Wrapper	|Combined|
+|Ridge	|0.87	|0.89	|0.89	|0.86|
+|Lasso	|0.87	|0.90	|0.89	|0.86|
+|Enet	|0.87	|0.90	|0.89	|0.86|
+|Poly Enet|	-	|0.93	| -	0|.90|
 
 MSE
-Filter	Embedded	Wrapper	Combined
-Ridge	7.65264e+08	6.121902e+08	6.43408e+08	8.357110e+08
-Lasso	7.62479e+08	6.164244e+08	6.36612e+08	8.315334e+08
-Enet	7.67292e+08	6.170996e+08	6.33163e+08	8.611059e+08
-Poly Enet	-	6.694659e+08	-	5.929756e+08
+|---|---|---|---|
+|Filter	|Embedded	|Wrapper	|Combined|
+|Ridge	|7.65264e+08	|6.121902e+08	|6.43408e+08	|8.357110e+08|
+|Lasso	|7.62479e+08	|6.164244e+08	|6.36612e+08	|8.315334e+08|
+|Enet	|7.67292e+08	|6.170996e+08	|6.33163e+08	|8.611059e+08|
+|Poly Enet	|-	|6.694659e+08	|-	|5.929756e+08|
 
 Conclusion
 There are three main findings:
